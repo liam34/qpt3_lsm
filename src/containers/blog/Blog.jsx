@@ -2,12 +2,12 @@ import React from 'react';
 import './article.css';
 
 
-function Article() {
+const Blog = () =>{
   return (
     <div>
-      Article
+      Blog
     </div>
   )
 }
 
-export default Article
+export default Blog
